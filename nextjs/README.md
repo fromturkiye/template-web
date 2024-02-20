@@ -20,6 +20,10 @@ Bu proje, Next.js kullanılarak oluşturulmuş bir web uygulaması örneğidir. 
 
 :star: Store: Redux
 
+:star: Internationalization: next-i18next
+
+:star: State Management: TanStack Query
+
 ### Önkoşullar :paperclip:
 
 Projeyi çalıştırmak için aşağıdakilere ihtiyacınız var:
@@ -38,7 +42,7 @@ git clone https://github.com/fromturkiye/template-web.git
 Proje dizinine gidin:
 
 ```bash
-cd template-web
+cd nextjs
 ```
 
 Gerekli paketleri yükleyin:
