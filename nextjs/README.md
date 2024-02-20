@@ -12,8 +12,6 @@ Bu proje, Next.js kullanılarak oluşturulmuş bir web uygulaması örneğidir. 
 
 :star: CSS Preprocessor: SCSS
 
-:star: Infra: Vertical Slice
-
 :star: Testing: Jest
 
 :star: Testing Library: React Testing Library
